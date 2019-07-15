@@ -1,0 +1,13 @@
+InOrdem: -20 10 56 
+PreOrdem: 10 -2 -20 0 56 43 
+Largura: 10 -2 56 -20 0 43 
+Chave existente
+InOrdem: -100 -20 -2 0 10 43 56 76 
+PreOrdem: 10 -2 -20 -100 0 56 43 76 
+PosOrdem: -100 -20 0 -2 43 76 56 10 
+Largura: 10 -2 56 -20 0 43 76 -100 
+Chave existente
+InOrdem: -100 -20 -2 0 10 43 45 54 56 76 88 
+PreOrdem: 10 -2 -20 -100 0 56 45 43 54 76 88 
+PosOrdem: -100 -20 0 -2 43 54 45 88 76 56 10 
+Largura: 10 -2 56 -20 0 45 76 -100 43 54 88 
